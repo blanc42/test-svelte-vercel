@@ -29,6 +29,8 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-vercel": "^5.4.1",
+		"@types/gsap": "^3.0.0",
+		"gsap": "^3.12.5",
 		"i": "^0.3.7"
 	}
 }
